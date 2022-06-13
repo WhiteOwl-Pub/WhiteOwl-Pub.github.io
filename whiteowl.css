@@ -1,0 +1,61 @@
+body {
+  background-image: url("images/back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.main{
+  text-align: center;
+  margin: 20%;
+
+}
+
+/* .intro{
+  background-color: #2A2550;
+  display: inline-block;
+  text-align: center;
+  margin: auto;
+  padding: 10%;
+  border-radius: 25px;
+} */
+
+.custome{
+  padding: 0 3px 3px 0;
+  font-size: 15px
+}
+
+.custome-2{
+  background-color: #212121;
+  color: #A0E418;
+  margin: 20% 25%;
+  opacity: 0.989;
+  border-radius: 50px;
+}
+
+.custom-title{
+  font-family: 'Roboto Slab', serif;
+  font-size: 30px;
+}
+
+.custom-text{
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 50px 0 0 0;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 40px;
+}
+
+.contact-list{
+  margin:5px;
+}
+
+/* bootstrap customizing */
+.navbar{
+  padding: 10px;
+}
+
+.py-5 {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
